@@ -161,6 +161,9 @@ nav ul li {
     width: 90%;
     left: 5%;
   }
+  h1 {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -169,6 +172,9 @@ nav ul li {
     flex-direction: column;
   }
 
+  h1 {
+    font-size: 18px;
+  }
   .songItem img {
     display: none;
   }
